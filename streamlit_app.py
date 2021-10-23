@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header("AI For ASL")
 
-sidebar = st.sidebar.stbutton()
+sidebar = st.sidebar.st.button()
 
 
 
