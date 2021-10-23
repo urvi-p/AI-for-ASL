@@ -1,4 +1,5 @@
 import streamlit as st 
 
-st.write(""" AI for ASL""")
+st.header("AI For ASL")
+
 
