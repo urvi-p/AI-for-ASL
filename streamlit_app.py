@@ -2,7 +2,7 @@ import streamlit as st
 
 st.header("AI For ASL")
 
-sidebar = st.sidebar.selectbox(st.title("Index"),["Introduction"])
+sidebar = st.sidebar.selectbox("Index",["Introduction"])
 
 
 
